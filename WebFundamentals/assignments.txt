@@ -1,0 +1,72 @@
+Last login: Mon Jan 23 15:26:01 on ttys000
+MacBook-Pro-2:~ albinanurmatova$ cd desktop
+MacBook-Pro-2:desktop albinanurmatova$ mkdir DojoAssignments
+MacBook-Pro-2:desktop albinanurmatova$ cd DojoAssignments
+MacBook-Pro-2:DojoAssignments albinanurmatova$ mkdir WebFundamentals
+MacBook-Pro-2:DojoAssignments albinanurmatova$ mkdir Python
+MacBook-Pro-2:DojoAssignments albinanurmatova$ mkdir MEAN
+MacBook-Pro-2:DojoAssignments albinanurmatova$ mkdir Ruby
+MacBook-Pro-2:DojoAssignments albinanurmatova$ mkdir iOS
+MacBook-Pro-2:DojoAssignments albinanurmatova$ mkdir netCore
+MacBook-Pro-2:DojoAssignments albinanurmatova$ cd WebFundamentals
+MacBook-Pro-2:WebFundamentals albinanurmatova$ touch about.txt
+MacBook-Pro-2:WebFundamentals albinanurmatova$ cd Python
+-bash: cd: Python: No such file or directory
+MacBook-Pro-2:WebFundamentals albinanurmatova$ cd ..
+MacBook-Pro-2:DojoAssignments albinanurmatova$ cd Python
+MacBook-Pro-2:Python albinanurmatova$ touch about.txt
+MacBook-Pro-2:Python albinanurmatova$ cd ..
+MacBook-Pro-2:DojoAssignments albinanurmatova$ cd MEAN
+MacBook-Pro-2:MEAN albinanurmatova$ touch about.txt
+MacBook-Pro-2:MEAN albinanurmatova$ cd ..
+MacBook-Pro-2:DojoAssignments albinanurmatova$ cd Ruby
+MacBook-Pro-2:Ruby albinanurmatova$ touch about.txt
+MacBook-Pro-2:Ruby albinanurmatova$ cd ..
+MacBook-Pro-2:DojoAssignments albinanurmatova$ cd iOS
+MacBook-Pro-2:iOS albinanurmatova$ touch about.txt
+MacBook-Pro-2:iOS albinanurmatova$ cd..
+-bash: cd..: command not found
+MacBook-Pro-2:iOS albinanurmatova$ cd netCore
+-bash: cd: netCore: No such file or directory
+MacBook-Pro-2:iOS albinanurmatova$ cd ..
+MacBook-Pro-2:DojoAssignments albinanurmatova$ cd netCore
+MacBook-Pro-2:netCore albinanurmatova$ touch about.txt
+MacBook-Pro-2:netCore albinanurmatova$ cd ..
+MacBook-Pro-2:DojoAssignments albinanurmatova$ cd WebFundamentals
+MacBook-Pro-2:WebFundamentals albinanurmatova$ mkdir Git
+MacBook-Pro-2:WebFundamentals albinanurmatova$ mkdir HTML
+MacBook-Pro-2:WebFundamentals albinanurmatova$ mkdir CSS
+MacBook-Pro-2:WebFundamentals albinanurmatova$ mkdir Javascript
+MacBook-Pro-2:WebFundamentals albinanurmatova$ cd Git
+MacBook-Pro-2:Git albinanurmatova$ touch about.txt
+MacBook-Pro-2:Git albinanurmatova$ cd ..
+MacBook-Pro-2:WebFundamentals albinanurmatova$ cd HTML
+MacBook-Pro-2:HTML albinanurmatova$ touch about.txt
+MacBook-Pro-2:HTML albinanurmatova$ cd ..
+MacBook-Pro-2:WebFundamentals albinanurmatova$ cd CSS
+MacBook-Pro-2:CSS albinanurmatova$ touch about.txt
+MacBook-Pro-2:CSS albinanurmatova$ cd ..
+MacBook-Pro-2:WebFundamentals albinanurmatova$ cd Javascript
+MacBook-Pro-2:Javascript albinanurmatova$ touch about.txt
+MacBook-Pro-2:Javascript albinanurmatova$ cd ..
+MacBook-Pro-2:WebFundamentals albinanurmatova$ cd HTML
+MacBook-Pro-2:HTML albinanurmatova$ touch indentation.html
+MacBook-Pro-2:HTML albinanurmatova$ cd ..
+MacBook-Pro-2:WebFundamentals albinanurmatova$ ls -R
+CSS		Git		HTML		Javascript	about.txt
+
+./CSS:
+about.txt
+
+./Git:
+about.txt
+
+./HTML:
+about.txt		indentation.html
+
+./Javascript:
+about.txt
+MacBook-Pro-2:WebFundamentals albinanurmatova$ ls
+CSS		Git		HTML		Javascript	about.txt
+MacBook-Pro-2:WebFundamentals albinanurmatova$ touch assignments.txt
+MacBook-Pro-2:WebFundamentals albinanurmatova$ 
